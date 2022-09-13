@@ -1,8 +1,6 @@
-[![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220907174457/Cloud-Computing-vs-Web-Development.gif)](https://rishavchanda.io)
+[![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rijon Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rijonahmed&label=Profile%20views&color=0e75b6&style=flat" alt="rijonahmed" /> </p>
 
 - 🔭 I’m currently working on [Moto-parts](https://moto-parts-62e64.web.app/)
